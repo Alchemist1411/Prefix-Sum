@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(matrix_multiplication_parallel)
+project(prefix_sum)
 
 # HPX
 find_package(HPX REQUIRED PATHS /home/onepunchman/workdir/INSTALL/)
